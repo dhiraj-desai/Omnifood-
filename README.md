@@ -1,4 +1,4 @@
-# [Omnifood] (https://stunning-kitsune-3a57d3.netlify.app/)                                                
+# [Omnifood]{https://stunning-kitsune-3a57d3.netlify.app/)                                                
 
 ## What it is?
 
