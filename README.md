@@ -1,6 +1,19 @@
-# Key Features
+                                                                                # [Omnifood] (https://stunning-kitsune-3a57d3.netlify.app/)                                                
+
+## What it is?
+
+Build Real World Webiste of Omnifood
+
+## Technologies Used
+
+HTML, CSS WITH Flexbox and css grid
+
+
+
+## Key Features
 
 ---
+
 
 Having created the website from scratch, I learned how to create and implement features that I'm likely to use in my future websites over and over again. Here are some of the key features and topics that I worked on:
 
