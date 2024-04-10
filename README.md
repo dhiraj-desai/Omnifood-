@@ -2,7 +2,7 @@
 
 ## What it is?
 
-Build Real World Webiste of Omnifood
+Build Real World Responsive Webiste of Omnifood
 
 ## Technologies Used
 
